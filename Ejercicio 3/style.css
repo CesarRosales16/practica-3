@@ -1,0 +1,90 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+input[type=button]{
+    font-weight: 10;
+    margin-right: 1.5em;
+    text-align: center;
+    display: inline-block;
+    border-radius: 0.3em;
+}
+input[type=button]:hover{
+    opacity: 0.6;
+}
+.no-decoration {
+    background-color: #f4f3f2;
+    color: #737373;
+    border: none;
+}
+.normal {
+    padding: 12px;
+    font-size: 1em;
+}
+.pequeño {
+    padding: 7px;
+    font-size: 0.7em;
+}
+.grande {
+    padding: 15px;
+    font-size: 1.5em;
+}
+.esmeraldaBorder {
+    border: solid 1.5px #57d78e;
+}
+.esmeraldaLetters {
+    color: #57d78e;
+}
+.esmeraldaFill {
+    background-color: #57d78e;
+}
+.cieloBorder {
+    border: solid 1.5px #5cade3;
+}
+.cieloLetters {
+    color: #5cade3;
+}
+.cieloFill {
+    background-color: #5cade3;
+}
+.amatistaBorder {
+    border: solid 1.5px #af7bc5
+}
+.amatistaLetters{
+    color: #af7bc5;
+}
+.amatistaFill {
+    background-color: #af7bc5;
+}
+.asfaltoBorder {
+    border: solid 1.5px #5c6d7f;
+}
+.asfaltoLetters {
+    color: #5c6d7f;
+}
+.asfaltoFill {
+    background-color: #5c6d7f;
+}
+.topazioBorder {
+    border: solid 1.5px #ea984d;
+}
+.topazioLetters{
+    color: #ea984d;
+}
+.topazioFill {
+    background-color: #ea984d;
+}
+.rubiBorder{
+    border: solid 1.5px #eb7062;
+}
+.rubiLetters {
+    color: #eb7062;
+}
+.rubiFill {
+    background-color: #eb7062;
+}
+.whiteFill {
+    background-color: #ffffff;
+}
+.whiteLetters {
+    color:white;
+}
