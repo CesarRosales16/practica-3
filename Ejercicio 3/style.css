@@ -16,6 +16,9 @@ input[type=button]:hover{
     color: #737373;
     border: none;
 }
+.simpleBorder {
+    border: 1.5px solid  #808080;
+}
 .normal {
     padding: 12px;
     font-size: 1em;
@@ -28,63 +31,45 @@ input[type=button]:hover{
     padding: 15px;
     font-size: 1.5em;
 }
-.esmeraldaBorder {
-    border: solid 1.5px #57d78e;
+.esmeralda{
+    background-color: #57d68d;
+    border: 1.5px solid #57d68d;
+    color: #57d68d;
 }
-.esmeraldaLetters {
-    color: #57d78e;
+.cielo {
+    background-color: #5cace2;
+    border: 1.5px solid #5cace2;
+    color: #5cace2;
 }
-.esmeraldaFill {
-    background-color: #57d78e;
+.amatista {
+    background-color: #ae7ac4;
+    border: 1.5px solid #ae7ac4;
+    color: #ae7ac4
 }
-.cieloBorder {
-    border: solid 1.5px #5cade3;
+.asfalto {
+    background-color: #5c6d7e;
+    border: 1.5px solid #5c6d7e;
+    color: #5c6d7e;
 }
-.cieloLetters {
-    color: #5cade3;
+.topazio {
+    background-color: #ea974e;
+    border: 1.5px solid #ea974e;
+    color: #ea974e;
 }
-.cieloFill {
-    background-color: #5cade3;
+.rubi {
+    background-color: #ea6f62;
+    border: 1.5px solid #ea6f62;
+    color: #ea6f62;
 }
-.amatistaBorder {
-    border: solid 1.5px #af7bc5
+.bordeado [type="button"]{
+    background-color: #ffffff;
 }
-.amatistaLetters{
-    color: #af7bc5;
-}
-.amatistaFill {
-    background-color: #af7bc5;
-}
-.asfaltoBorder {
-    border: solid 1.5px #5c6d7f;
-}
-.asfaltoLetters {
-    color: #5c6d7f;
-}
-.asfaltoFill {
-    background-color: #5c6d7f;
-}
-.topazioBorder {
-    border: solid 1.5px #ea984d;
-}
-.topazioLetters{
-    color: #ea984d;
-}
-.topazioFill {
-    background-color: #ea984d;
-}
-.rubiBorder{
-    border: solid 1.5px #eb7062;
-}
-.rubiLetters {
-    color: #eb7062;
-}
-.rubiFill {
-    background-color: #eb7062;
+.colores [type="button"]{
+    color: #ffffff;
 }
 .whiteFill {
     background-color: #ffffff;
 }
 .whiteLetters {
-    color:white;
+    color:#ffffff;
 }
